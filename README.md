@@ -8,36 +8,34 @@ GRC-focused professional transitioning into cybersecurity with hands-on experien
 
 ## 📊 Projects
 
-### 🔹 Risk Assessment & Risk Register
-
-* Conducted risk assessment using likelihood & impact scoring
-* Created risk register and heat map
-* Implemented mitigation strategies
-
----
-
-### 🔹 ISO 27001 ISMS Implementation
-
-* Built ISMS aligned with ISO 27001
-* Performed gap analysis and control mapping
-* Developed policies and remediation roadmap
+## 🔹 Risk Assessment & Risk Register
+- Conducted risk assessment using likelihood (1–5) and impact (1–5)
+- Created heat map for prioritization
+- Identified top risks: data breach, ransomware, vendor risk
+- Implemented controls: MFA, encryption, WAF
 
 ---
 
-### 🔹 Incident Response Plan
-
-* Designed IR plan aligned with ISO 27035 & NIST
-* Simulated ransomware scenario
-* Improved response time (MTTR)
+## 🔹 ISO 27001 ISMS Implementation
+- Defined scope and risk appetite
+- Mapped controls to ISO 27001 Annex A
+- Identified 12 gaps and created remediation roadmap
+- Developed policies: Access Control, IR, HR Security
 
 ---
 
-### 🔹 Vendor Risk Assessment
+## 🔹 Incident Response Plan
+- Designed IR lifecycle based on ISO 27035 & NIST
+- Defined severity levels and roles
+- Simulated ransomware attack
+- Improved MTTR by 50%
 
-* Created vendor assessment framework
-* Designed questionnaire and scoring model
-* Evaluated vendor risks
+---
 
+## 🔹 Vendor Risk Assessment
+- Created vendor questionnaire (20 questions)
+- Developed scoring model (0–100)
+- Evaluated vendors and assigned risk levels
 ---
 
 ## 🛠️ Skills
