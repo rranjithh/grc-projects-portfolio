@@ -47,6 +47,7 @@ NIST SP 800-61
 DPDP Act 2023 (India)
 Jira (Learning)
 ServiceNow GRC (Learning)
+
 📊 Key Capabilities Demonstrated
 Risk Assessment & Risk Register Management
 ISO 27001 ISMS Implementation
